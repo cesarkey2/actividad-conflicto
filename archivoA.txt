@@ -1,1 +1,2 @@
-Este es el archivo A - versión original
+Esta línea viene desde la rama NEW-FEATURE
+
